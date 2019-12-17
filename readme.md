@@ -1,5 +1,5 @@
-# Simple NodeJs Server Setup With ExpressJs & Mysql & Sequelize (ORM TOOL)
+# Simple NodeJs Server Setup With ExpressJs & NoSQL
 
-Simple demo on how to setup a express nodejs server with mysql2 & sequelize orm tool 
+Simple demo on how to setup a express nodejs server with NoSQL by using mongoDB
 
 
